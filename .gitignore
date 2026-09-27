@@ -1,1 +1,3 @@
 application-local.properties
+secret.txt
+*.log
